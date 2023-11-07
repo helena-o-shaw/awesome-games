@@ -1,0 +1,64 @@
+<div align="center">
+
+<!-- title -->
+
+<!--lint ignore no-dead-urls-->
+
+# Awesome Games [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/helena-o-shaw/awesome-games/actions/workflows/lint.yaml/badge.svg)](https://github.com/helena-o-shaw/awesome-games/actions/workflows/lint.yaml) [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome)
+
+[![GitHub](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/helena-o-shaw/) &nbsp; [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/helena-o-shaw) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/helena-o-shaw) &nbsp; [![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/helena-o-shaw)
+
+<!-- subtitle -->
+
+> A curated opinionated list of gaming-related links and resources.
+
+<!-- image -->
+
+<!--
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="" />
+</a>
+-->
+
+<!-- description -->
+
+<!-- TODO -->
+
+</div>
+
+<!-- TOC -->
+
+## Contents
+
+- [Awesome Archero](#awesome-archero)
+- [Follow](#follow)
+
+<!-- CONTENT -->
+
+## Awesome Archero
+
+- [Archero](https://www.habby.fun/game/detail/archero) - The shiny original.
+(
+[Android](https://play.google.com/store/apps/details?id=com.habby.archero) |
+[iOS](https://apps.apple.com/us/app/archero/id1453651052) |
+[Wiki](https://archero.fandom.com/wiki/Archero_Wiki) |
+[Reddit](https://www.reddit.com/r/Archero/wiki/index/)
+)
+
+### Top Archero Clones
+
+- ...
+
+<!-- END CONTENT -->
+
+## Contribute
+
+Contributions are welcome!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/helena-o-shaw/awesome-games/graphs/contributors)!
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
