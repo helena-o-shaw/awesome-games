@@ -42,12 +42,21 @@
 [Android](https://play.google.com/store/apps/details?id=com.habby.archero) |
 [iOS](https://apps.apple.com/us/app/archero/id1453651052) |
 [Wiki](https://archero.fandom.com/wiki/Archero_Wiki) |
-[Reddit](https://www.reddit.com/r/Archero/wiki/index/)
+[Reddit](https://www.reddit.com/r/Archero/wiki/index/) |
+[fb](https://www.facebook.com/archerogame/)
 )
 
 ### Top Archero Clones
 
-- ...
+- [Mighty Doom](https://bethesda.net/en-US/game/mightydoom) - DooM + Archero.
+(
+[Android](https://play.google.com/store/apps/details?id=com.bethsoft.ubu) |
+[iOS](https://apps.apple.com/us/app/mighty-doom/id1535673981) |
+[Wiki](https://doom.fandom.com/wiki/Mighty_Doom) |
+[Wiki](https://doomwiki.org/wiki/Mighty_Doom) | 
+[Reddit](https://www.reddit.com/r/MightyDoom/top/)
+)
+
 
 <!-- END CONTENT -->
 
