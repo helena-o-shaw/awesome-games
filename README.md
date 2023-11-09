@@ -65,6 +65,26 @@
 [fb](https://www.facebook.com/Zombero/)
 )
 
+### Other Archero Clones
+
+- [Dashero](https://www.treflegame.com/portfolio.html#dashero) - Archero with a perspective
+(
+[Android](https://play.google.com/store/apps/details?id=com.trefle.dashero) |
+[iOS](https://apps.apple.com/us/app/legend-heroes-nonstop-combo/id1504030024) |
+[Reddit](https://www.reddit.com/r/dasherogame/top/?t=all) |
+[fb](https://www.facebook.com/DasheroGame/)
+)
+
+### Exact Archero Clones
+
+- [Tales Rush]() - Clone by [Youloft](https://game.youloft.com/#/about)
+(
+[Android](https://play.google.com/store/apps/details?id=com.xchange.talesrush) |
+[iOS](https://apps.apple.com/us/app/tales-rush/id1483719548) |
+[Reddit](https://www.reddit.com/r/Talesrush/top/?t=all) |
+)
+
+
 <!-- TODO:
 
 + Combat Quest
@@ -80,13 +100,13 @@
 * Archer Hunter
 
 ? Idle Breaker
-
-Dashero, Heroics Archero Adventures, Wizard Legend
-Arcade Hunter, Butchero, Byebye Monster, Tales Rush, Biubiu Tales (Heroes Rush), Archer Adventure, Hunter: Master of Arrow, 
+Arcade Hunter, Butchero, Byebye Monster, Archer Adventure
+Heroics Archero Adventures, Wizard Legend, Tank Hero, Super Duper
+Biubiu Tales (Heroes Rush), Hunter: Master of Arrow, 
 Evil Shooter, Hit and Run, ByeBye Monster, Magicians Apprentice, Arcade Hunter, Ninja Story
 Super Duper (early access), Shooting League: Bounty Hunter (early access)
 Zombie Attack: Survival, Zombies: Shooting Attack Survival
-Butchero, Hero Rush, Impossible Space, Archer Girl, Crazy Wildling
+Hero Rush, Impossible Space, Archer Girl, Crazy Wildling
 Monster Killer, Lunch Hero, Bow Hero, Bow Land
 Weapon Masters: Rougelike, Mecha , The Adventure: Pocket Journey
 Arrow Shooting Battle Game 3D, Archery Hero: The Next Generation
@@ -103,7 +123,6 @@ https://play.google.com/store/apps/collection/cluster?gsr=SjtqGEUva0JQc2pEeHY2K1
 [Reddit]() |
 [fb]()
 )
-
 
 -->
 
