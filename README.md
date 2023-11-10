@@ -64,6 +64,14 @@
 [Reddit](https://www.reddit.com/r/Zombero/top/?t=all) |
 [fb](https://www.facebook.com/Zombero/)
 )
+- [Path of Immortals](https://poi.dreamplusgames.com/) - Rogue + Archero
+(
+[Android](https://play.google.com/store/apps/details?id=com.mechanist.poi) |
+[iOS](https://apps.apple.com/us/app/path-of-immortals-survivor/id1557623459) |
+[Wiki](https://land-of-immortals.fandom.com/wiki/Path_of_the_Immortal) |
+[Reddit](https://www.reddit.com/r/pathofimmortals/top/?t=all) |
+[fb](https://www.facebook.com/pathofimmortals/)
+)
 
 ### Other Archero Clones
 
@@ -88,7 +96,7 @@
 <!-- TODO:
 
 + Combat Quest
-+ Path of Immortals
++ 
 + ...
 + Warcraft Rumble
 
