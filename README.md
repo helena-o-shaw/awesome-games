@@ -72,6 +72,18 @@
 [Reddit](https://www.reddit.com/r/pathofimmortals/top/?t=all) |
 [fb](https://www.facebook.com/pathofimmortals/)
 )
+- [Warcraft Rumble](https://warcraftrumble.blizzard.com/) - Archero + Warcraft
+(
+[Android](https://play.google.com/store/apps/details?id=com.blizzard.arc) |
+[iOS](https://apps.apple.com/us/app/warcraft-rumble/id1600575058) |
+[Wiki](https://wowpedia.fandom.com/wiki/Warcraft_Rumble) |
+[Reddit](https://www.reddit.com/r/warcraftrumble/top/?t=all) |
+[Twitch](https://www.twitch.tv/directory/category/warcraft-arclight-rumble) |
+[fb](https://www.facebook.com/WarcraftRumble/) |
+[twitter](https://twitter.com/warcraftrumble) |
+[IG](https://www.instagram.com/warcraftrumble/)
+)
+
 
 ### Other Archero Clones
 
