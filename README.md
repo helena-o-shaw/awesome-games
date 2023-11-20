@@ -104,7 +104,12 @@
 [iOS](https://apps.apple.com/us/app/tales-rush/id1483719548) |
 [Reddit](https://www.reddit.com/r/Talesrush/top/?t=all) |
 )
-
+- [Spacero]() - aka Space Marines: Hero Survivor by [Try Again Games](https://www.tryagaingamestudio.com/)
+(
+[Android](https://play.google.com/store/apps/details?id=com.tryagaingamestudio.spacelanders) |
+[iOS](https://apps.apple.com/us/app/space-marines-hero-survivor/id1497499124) |
+[fb](https://www.facebook.com/spacelandersgame/)
+)
 
 <!-- TODO:
 
@@ -124,7 +129,7 @@
 Arcade Hunter, Butchero, Byebye Monster, Archer Adventure
 Heroics Archero Adventures, Wizard Legend, Tank Hero, Super Duper
 Biubiu Tales (Heroes Rush), Hunter: Master of Arrow, 
-Evil Shooter, Hit and Run, ByeBye Monster, Magicians Apprentice, Arcade Hunter, Ninja Story
+Evil Shooter, Hit and Run, ByeBye Monster, Magicians Apprentice, Ninja Story
 Super Duper (early access), Shooting League: Bounty Hunter (early access)
 Zombie Attack: Survival, Zombies: Shooting Attack Survival
 Hero Rush, Impossible Space, Archer Girl, Crazy Wildling
