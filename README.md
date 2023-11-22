@@ -110,34 +110,46 @@
 [iOS](https://apps.apple.com/us/app/space-marines-hero-survivor/id1497499124) |
 [fb](https://www.facebook.com/spacelandersgame/)
 )
+- [Tank Hero](https://en.bettagames.com/) - Archero + Tanks
+(
+[Android](https://play.google.com/store/apps/details?id=com.tankgame.tankhero.en) |
+[iOS](https://apps.apple.com/us/app/tank-hero-the-fight-begins/id1481316255) |
+[Wiki](https://tankhero.fandom.com/wiki/TankHero_Wiki) |
+[Reddit](https://www.reddit.com/r/tankhero/) |
+[fb](https://www.facebook.com/p/Tank-Hero-100063724833851/)
+)
+
 
 <!-- TODO:
 
 + Combat Quest
-+ 
-+ ...
-+ Warcraft Rumble
++ Idle Breaker
++ Arcade Hunter
++ BiuBiu Tales Heroes Rush
++ Archer Girl
++ Tank Hero
++ Hunter: Master of Arrow
++ Bow Hero
++ Bow Land
 
 # Close Archero Clones
 
-* Tales Rush
 * Dragono
 * Archaya
 * Archer Hunter
 
-? Idle Breaker
-Arcade Hunter, Butchero, Byebye Monster, Archer Adventure
-Heroics Archero Adventures, Wizard Legend, Tank Hero, Super Duper
-Biubiu Tales (Heroes Rush), Hunter: Master of Arrow, 
+? 
+, Butchero, Byebye Monster, Archer Adventure
+Heroics Archero Adventures, Wizard Legend, , Super Duper, , 
 Evil Shooter, Hit and Run, ByeBye Monster, Magicians Apprentice, Ninja Story
 Super Duper (early access), Shooting League: Bounty Hunter (early access)
 Zombie Attack: Survival, Zombies: Shooting Attack Survival
-Hero Rush, Impossible Space, Archer Girl, Crazy Wildling
-Monster Killer, Lunch Hero, Bow Hero, Bow Land
+Hero Rush, Impossible Space, , Crazy Wildling
+Monster Killer, Lunch Hero, 
 Weapon Masters: Rougelike, Mecha , The Adventure: Pocket Journey
 Arrow Shooting Battle Game 3D, Archery Hero: The Next Generation
 Crazy Wildling, Heroics, Super Clone, Jackal Squad
-BiuBiu Tales, 
+, 
 
 https://play.google.com/store/apps/collection/cluster?gsr=SjtqGEUva0JQc2pEeHY2K1NmLzgra1ZFelE9PcICHgoWChJjb20ubXliby5kb29tc2xhbmQQBxgIMAE4AA%3D%3D:S:ANO1ljI6s9A
 
